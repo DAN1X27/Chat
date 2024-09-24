@@ -1,0 +1,14 @@
+
+ 	java:S135+"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÈØº¥’2J$90e820b4-1f20-4804-a975-aa60951d0b57
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ãØº¥’2J$1110306c-a49b-4a5b-b535-41593a1bec42
+j
+java:S2189J""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8µ¼¥’2J$2a398d9d-d832-4944-bd4e-e66115a171c7
+m	java:S106"+Replace this use of System.out by a logger.(á¼õÅ8ëØº¥’2J$9e220656-543f-43c2-97c6-c0a25d9fad7d
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8îØº¥’2J$b087334f-a745-4a4c-954c-88b1a3e10df0
+}
+java:S1161V":Add the "@Override" annotation above this method signature(“–ış8ôØº¥’2J$65298a1c-28c8-47f5-bac8-a848797c53a7
+‡
+java:S2147b"DCombine this catch with the one at line 96, which has the same body.(ıàÑÎ8õØº¥’2J$bfb7dd91-88c6-4a19-b477-2a5f203d8a95
+y
+java:S1128"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8°ïòÂ’2J$50dfa97e-f221-446a-bd1c-022841303e2b

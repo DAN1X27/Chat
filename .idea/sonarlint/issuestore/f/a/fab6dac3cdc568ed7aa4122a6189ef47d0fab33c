@@ -1,0 +1,12 @@
+
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8º°œ’2J$656461d3-1e22-4d80-ad42-510380365f24
+|
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8‚º°œ’2J$2fcc64de-5f91-498f-aed6-0632fd34cec9
+m	java:S106"+Replace this use of System.out by a logger.(²©©£8‚º°œ’2J$7b66e58f-6fe1-4bda-a957-0a75f47610e5
+o
+java:S1125"'Remove the unnecessary boolean literal.(¶–Áûÿÿÿÿ8‚º°œ’2J$b2c9a848-6e10-4b05-86c4-c1e5f59e6bc8
+‡
+java:S2147F"DCombine this catch with the one at line 68, which has the same body.(ıàÑÎ8…º°œ’2J$03f5fbb5-794f-4162-ab67-f745492e8586
+r
+java:S2446W"0"notify" may not wake up the appropriate thread.(Ğàüv8º°œ’2J$1e00b04d-a2fc-43f2-bb7b-da10c1fb7137
